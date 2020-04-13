@@ -1,0 +1,30 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "this is assignment 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josep408/assignment4.git"
+  },
+  "keywords": [
+    "4",
+    "four",
+    "assignment",
+    "homework"
+  ],
+  "author": "Jose Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josep408/assignment4/issues"
+  },
+  "homepage": "https://github.com/josep408/assignment4#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  }
+}
