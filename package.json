@@ -24,7 +24,7 @@
   "homepage": "https://github.com/josep408/assignment4#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0"
   }
 }
